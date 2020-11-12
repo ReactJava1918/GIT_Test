@@ -72,32 +72,7 @@ public class MainClass {
       System.out.println(emp.getAddress());
       
       
-
-      //added from github1---------------------
-
-      //from branchh a2.....................
-      
-      //from branch a1
-      
-      
-      
-      //again from branch a222222222222222222222222222222222222222222
-      
-      //again from a1111111111111111111111111111111
-      
-      //siva redy a22222222222222222222222222222222222222222222222222222222222222222222222222222222
-      
- 
-
-      //A2222222222222222222222222222222222222222222222222222222
- 
-      //helloooooooooooooooooooooooooooooooofrom A!!!!!!!!!!!!!!!
- 
-
-      //helloooooooooooooooooooooooooooooooofrom A!!!!!!!!!!!!!!!
- 
-      //A2222222222222222222222222222222222222222222222222222222
- 
+ //a2-1
 
 
    }
