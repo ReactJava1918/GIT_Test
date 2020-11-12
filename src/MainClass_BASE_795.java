@@ -70,12 +70,5 @@ public class MainClass {
       address.setAddressType("Office");
       address.setCity("Hyderabad");
       System.out.println(emp.getAddress());
-      
-      
-
-      //added from github1---------------------
-
-      //from branchh a2.....................
-
    }
 }

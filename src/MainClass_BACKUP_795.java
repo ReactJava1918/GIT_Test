@@ -72,10 +72,10 @@ public class MainClass {
       System.out.println(emp.getAddress());
       
       
-
+<<<<<<< Updated upstream
       //added from github1---------------------
-
+=======
       //from branchh a2.....................
-
+>>>>>>> Stashed changes
    }
 }
