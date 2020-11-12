@@ -87,18 +87,11 @@ public class MainClass {
       
       //siva redy a22222222222222222222222222222222222222222222222222222222222222222222222222222222
       
- 
-
-      //A2222222222222222222222222222222222222222222222222222222
- 
+<<<<<<< HEAD
       //helloooooooooooooooooooooooooooooooofrom A!!!!!!!!!!!!!!!
- 
-
-      //helloooooooooooooooooooooooooooooooofrom A!!!!!!!!!!!!!!!
- 
+=======
       //A2222222222222222222222222222222222222222222222222222222
- 
-
+>>>>>>> ee4ba532dc8210fac64dfcc8acd8965775bda156
 
    }
 }
