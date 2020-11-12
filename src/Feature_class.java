@@ -6,6 +6,8 @@ public class Feature_class {
 		
 		//1)this from a
 
+		
+		//2)This is from b...................
 	}
 
 }
